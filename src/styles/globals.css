@@ -1,0 +1,25 @@
+:root{
+    
+    --font-primary:"IBM Plex Sans", sans-serif;
+    --font-secondary: "Inter", sans-serif;
+    
+    --color-primary: #623CEA;
+    --color-primary50: #311E75;
+    --color-secondary: #50CF9A;
+    --color-secondary50: #E5F8F0;
+    --color-tertiary: #FF577F;
+    --color-tertiary50: #311E75;
+    --color-qauternary: #506CCF;
+    --color-qauternary50: #E5E9F8;
+
+    --color-face: #364FC7;
+    --color-insta: #CF50AC;
+    --color-linkdin: #0E76A8;
+
+    --color-gray1: #F8F9FA;
+    --color-gray2: #E9ECEF;
+    --color-gray3: #868E96;
+    --color-gray4: #212529;
+
+    
+}
