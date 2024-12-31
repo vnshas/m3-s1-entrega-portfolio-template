@@ -1,0 +1,23 @@
+.container{
+    width: 100%;
+    max-width: 1050px;
+    margin: 0 auto;
+    padding: 1.5rem;
+
+}
+
+.container.sm{
+    max-width: 450px;
+}
+
+.section-gray0{
+    background-color: var(--color-gray0);
+}
+
+.section-gray05{
+    background-color: var(--color-gray05);
+}
+
+.section-padding{
+    padding: clamp(2rem, 5vw,5.625rem);
+}

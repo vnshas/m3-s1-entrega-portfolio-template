@@ -1,7 +1,8 @@
 .title{
-    font-family: var(--color-primary);
+    font-family: var(--font-primary);
     font-weight: 700;
     line-height: 1.4;
+    color: var(--color-gray1);
 }
 
 .title.lg{
@@ -16,3 +17,35 @@
     font-size: 1.375rem;
 }
 
+.title.nav{
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--color-gray3);
+}
+
+.title .purple{
+    color: var(--color-primary);
+}
+
+.paragraph{
+    font-family: var(--font-secondary);
+    font-weight: 400;
+    line-height: 1.8;
+    font-size: 1rem;
+}
+
+.paragraph.sm{
+    font-size: .875rem;
+}
+
+.paragraph.gray3{
+    color: var(--color-gray3);
+}
+
+.paragraph.gray4{
+    color: var(--color-gray4);
+}
+
+.paragraph.gray2{
+    color: var(--color-gray2);
+}

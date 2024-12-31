@@ -16,10 +16,16 @@
     --color-insta: #CF50AC;
     --color-linkdin: #0E76A8;
 
+    --color-gray0: #0A0A0B;
+    --color-gray05: #121214;
     --color-gray1: #F8F9FA;
     --color-gray2: #E9ECEF;
     --color-gray3: #868E96;
     --color-gray4: #212529;
 
     
+}
+
+body{
+    background-color: var(--color-gray0);
 }

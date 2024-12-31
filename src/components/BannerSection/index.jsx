@@ -1,8 +1,11 @@
+import bannerImg from "../../assets/banner-img.png"
+
 export const BannerSection = () =>{
-    return(
-        <section>
-            <img src="/src/assets/banner-img.png" alt="Imagem banner" />
-            
-        </section>
-    )
+    return (
+      <section>
+        <div className="container">
+          <img src={bannerImg} alt="Imagem banner" />
+        </div>
+      </section>
+    );
 }

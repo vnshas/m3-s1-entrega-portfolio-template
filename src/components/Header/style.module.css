@@ -1,0 +1,11 @@
+.FlexBox{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.FlexBox ul {
+    display: flex;
+    gap: 2.125rem;
+}
+

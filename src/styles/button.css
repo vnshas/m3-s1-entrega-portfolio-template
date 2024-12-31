@@ -1,0 +1,25 @@
+.btn{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    gap: 1rem;
+
+    font-family: var(--font-secondary);
+    font-weight: 500;
+    font-size: 1rem;
+
+    height: 3rem;
+
+    color: var(--color-gray1);
+
+    border-radius: 8px;
+    padding: 0 2rem;
+
+    transition: 0.4s;
+}
+
+.btn.purple{
+    background-color: var(--color-primary);
+}
+

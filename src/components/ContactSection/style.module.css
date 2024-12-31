@@ -1,0 +1,26 @@
+.FlexBox{
+    display: flex;
+    gap: 10.4375rem;
+}
+
+.Contacts{
+    display: flex;
+    flex-direction: column;
+    gap: 4.25rem
+}
+
+.Contact{
+    display: flex;
+    gap: 1.75rem;
+}
+
+.Contact img{
+    height: fit-content;
+}
+
+.Text{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+

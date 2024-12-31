@@ -1,0 +1,15 @@
+.FlexBox{
+    display: flex;
+    flex-direction: column;
+    gap: 85px;
+}
+
+.Title{
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+}
+
+span{
+    color: rgb(255, 138, 138);
+}

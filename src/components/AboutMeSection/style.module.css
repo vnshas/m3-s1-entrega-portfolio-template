@@ -1,0 +1,23 @@
+.FlexBox{
+    display: flex;
+    gap: 1rem;
+}
+
+.About{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.Me{
+    display: flex;
+    align-items: center;
+    gap: 1.875rem;
+}
+
+.Projects{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 4.9375rem;
+}
