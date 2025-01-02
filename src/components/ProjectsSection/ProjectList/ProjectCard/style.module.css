@@ -1,0 +1,16 @@
+.Card{
+    background-color: var(--color-gray05);
+    padding: .375rem;
+    border-radius: 8px;
+}
+
+.ProjectList{
+    display: flex;
+    flex-direction: column;
+    gap: 1.625rem;
+}
+
+.GitApp{
+    display:flex ;
+    gap: 2.8125rem;
+}

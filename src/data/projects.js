@@ -1,22 +1,26 @@
 export const projects = [
   {
     id:1,
-    name: "Projeto 1",
-    description: "Atividade Props Card Pessoas",
+    name: "Quickstart",
+    description: "Descrição do projeto contendo as informações sobre finalidade da aplicação e como está organizado o repositório...",
+    linguagem:"Javascript",
   },
   {
     id:2,
-    name: "Projeto 2",
-    description: "Atividade Praticando Children",
+    name: "Quickstart",
+    description: "Descrição do projeto contendo as informações sobre finalidade da aplicação e como está organizado o repositório...",
+    linguagem:"Javascript",
   },
   {
     id:3,
-    name: "Projeto 3",
-    description: "Descrição do projeto",
+    name: "Quickstart",
+    description: "Descrição do projeto contendo as informações sobre finalidade da aplicação e como está organizado o repositório...",
+    linguagem:"Javascript",
   },
   {
     id:4,
-    name: "Projeto 4",
-    description: "Descrição do projeto",
+    name: "Quickstart",
+    description: "Descrição do projeto contendo as informações sobre finalidade da aplicação e como está organizado o repositório...",
+    linguagem:"Javascript",
   },
 ];

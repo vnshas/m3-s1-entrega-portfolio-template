@@ -1,0 +1,30 @@
+.sidenav{
+    width: 240px;
+    height: 240px;
+    background: var(--color-gray0);
+    position: absolute;
+    padding: 0 30px;
+    transition: all 1s;
+    display: none;
+    left: 0;
+}
+
+.sidenav.active{
+    display: block;
+}
+
+.navItem{
+    margin-top: 10px;
+    padding: 10px 0;
+}
+
+
+.mobileMenu{
+   display: none;
+}
+
+@media(max-width:550px){
+    .mobileMenu{
+        display: block;
+    }
+}

@@ -1,0 +1,18 @@
+.Sidenav{
+    width: 375px;
+    height: 323px;
+    background: var(--color-gray0);
+    position: absolute;
+    padding: 0 30px;
+    transition: all 1s;
+    display: none;
+}
+
+.Sidenav.active{
+    left: 0;
+}
+
+.NavItem{
+    margin-top: 10px;
+    padding: 10px 15px;
+}

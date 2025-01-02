@@ -8,7 +8,7 @@ export const PorjectsSection = () =>{
           <div className= {styles.FlexBox}>
             <div className={styles.Title}>
               <h3 className="title sm">My projects</h3>
-              <p className="paragraph sm gray3">Projects created at<span> Kenzie Academy</span></p>
+              <p className="paragraph sm gray3">Projects created at<span className={styles.Kenzie}> Kenzie Academy</span></p>
             </div>
             <ProjectList />
           </div>

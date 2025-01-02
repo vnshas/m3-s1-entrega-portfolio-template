@@ -1,6 +1,10 @@
 .FlexBox{
     display: flex;
-    gap: 10.4375rem;
+    gap: clamp(3.4375rem, 5vw,10.4375rem);
+}
+
+.FlexBox h2{
+    margin-bottom: 28px;
 }
 
 .Contacts{
@@ -24,3 +28,8 @@
     gap: 1rem;
 }
 
+@media (max-width:700px){
+    .FlexBox{
+        flex-direction: column;
+    }
+}
