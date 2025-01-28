@@ -1,4 +1,4 @@
-import { TechList } from "./TechList";
+import { TechList } from "./TechList"
 import PesonalPhoto from "../../assets/me.png"
 import gitIcon from "../../assets/Bt-Circle-github.png"
 import bannerImg from "../../assets/HomePageCart1.png"
@@ -34,5 +34,5 @@ export const AboutMeSection = () =>{
           </div>
         </div>
       </section>
-    );
+    )
 }
