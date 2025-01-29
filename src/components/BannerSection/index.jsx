@@ -7,5 +7,5 @@ export const BannerSection = () =>{
           <img src={bannerImg} alt="Imagem banner" />
         </div>
       </section>
-    );
+    )
 }
